@@ -1,4 +1,4 @@
-package PractisePrograms;
+package PractisePrograms.Multithreading;
 
 public class Test1 {
     public static void main(String[] args){

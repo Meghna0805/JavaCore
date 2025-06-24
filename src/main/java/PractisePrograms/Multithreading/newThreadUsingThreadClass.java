@@ -1,4 +1,4 @@
-package PractisePrograms;
+package PractisePrograms.Multithreading;
 
 public class newThreadUsingThreadClass extends Thread {
     @Override
